@@ -1,0 +1,14 @@
+D:\C#.NET.2022_17\HospitalManager\HospitalManager.DataAccess\bin\Debug\net8.0\HospitalManager.DataAccess.deps.json
+D:\C#.NET.2022_17\HospitalManager\HospitalManager.DataAccess\bin\Debug\net8.0\HospitalManager.DataAccess.runtimeconfig.json
+D:\C#.NET.2022_17\HospitalManager\HospitalManager.DataAccess\bin\Debug\net8.0\HospitalManager.DataAccess.dll
+D:\C#.NET.2022_17\HospitalManager\HospitalManager.DataAccess\bin\Debug\net8.0\HospitalManager.DataAccess.pdb
+D:\C#.NET.2022_17\HospitalManager\HospitalManager.DataAccess\obj\Debug\net8.0\HospitalManager.DataAccess.csproj.AssemblyReference.cache
+D:\C#.NET.2022_17\HospitalManager\HospitalManager.DataAccess\obj\Debug\net8.0\HospitalManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#.NET.2022_17\HospitalManager\HospitalManager.DataAccess\obj\Debug\net8.0\HospitalManager.DataAccess.AssemblyInfoInputs.cache
+D:\C#.NET.2022_17\HospitalManager\HospitalManager.DataAccess\obj\Debug\net8.0\HospitalManager.DataAccess.AssemblyInfo.cs
+D:\C#.NET.2022_17\HospitalManager\HospitalManager.DataAccess\obj\Debug\net8.0\HospitalManager.DataAccess.csproj.CoreCompileInputs.cache
+D:\C#.NET.2022_17\HospitalManager\HospitalManager.DataAccess\obj\Debug\net8.0\HospitalManager.DataAccess.dll
+D:\C#.NET.2022_17\HospitalManager\HospitalManager.DataAccess\obj\Debug\net8.0\refint\HospitalManager.DataAccess.dll
+D:\C#.NET.2022_17\HospitalManager\HospitalManager.DataAccess\obj\Debug\net8.0\HospitalManager.DataAccess.pdb
+D:\C#.NET.2022_17\HospitalManager\HospitalManager.DataAccess\obj\Debug\net8.0\HospitalManager.DataAccess.genruntimeconfig.cache
+D:\C#.NET.2022_17\HospitalManager\HospitalManager.DataAccess\obj\Debug\net8.0\ref\HospitalManager.DataAccess.dll
