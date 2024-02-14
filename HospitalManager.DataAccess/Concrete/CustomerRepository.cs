@@ -10,14 +10,7 @@ using System.Threading.Tasks;
 namespace HospitalManager.DataAccess.Concrete
 {
     public class CustomerRepository : ICustomerRepository
-    {
-        public ICustomerRepository _icustomerRepository;
-
-        public CustomerRepository(ICustomerRepository icustomerRepository)
-        {
-            _icustomerRepository = icustomerRepository;
-        }
-       //var dbContext = new NorthwindContext();
+    {      
         public Customer Create(Customer entity)
         {
             using (var dbContext = new NorthwindContext())
