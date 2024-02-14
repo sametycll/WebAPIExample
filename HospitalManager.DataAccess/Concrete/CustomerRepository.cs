@@ -47,6 +47,14 @@ namespace HospitalManager.DataAccess.Concrete
             }
         }
 
+        public Customer GetByName(string name)
+        {
+            using (var dbContext = new NorthwindContext())
+            {
+                return dbContext.Customers.Find(name);
+            }
+        }
+
         public Customer Update(Customer entity)
         {
             using (var dbContext = new NorthwindContext())

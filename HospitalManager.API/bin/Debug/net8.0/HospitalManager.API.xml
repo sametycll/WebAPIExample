@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HospitalManager.API</name>
+    </assembly>
+    <members>
+        <member name="M:HospitalManager.API.Controllers.ShipperController.Get">
+            <summary>
+            Get All Shippers
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:HospitalManager.API.Controllers.ShipperController.Get(System.Int32)">
+            <summary>
+            Get Shipper By ID
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HospitalManager.API.Controllers.ShipperController.Post(HospitalManager.Entities.Entities.Shipper)">
+            <summary>
+            Create a Shipper
+            </summary>
+            <param name="shipper"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HospitalManager.API.Controllers.ShipperController.Put(HospitalManager.Entities.Entities.Shipper)">
+            <summary>
+            Update the Shipper
+            </summary>
+            <param name="shipper"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HospitalManager.API.Controllers.ShipperController.Delete(System.Int32)">
+            <summary>
+            Delete the Shipper
+            </summary>
+            <param name="id"></param>
+        </member>
+    </members>
+</doc>

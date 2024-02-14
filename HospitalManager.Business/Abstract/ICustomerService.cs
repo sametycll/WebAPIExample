@@ -9,6 +9,7 @@ namespace HospitalManager.Business.Abstract
 {
     public interface ICustomerService : IGenericService<Customer>
     {
+        Customer GetByName(string name);
 
     }
 }

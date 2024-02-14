@@ -43,6 +43,11 @@ namespace HospitalManager.Business.Concrete
             throw new Exception("ID na cot be less than 1");
         }
 
+        public Customer GetByName(string name)
+        {
+            return _icustomerRepository.GetByName(name);
+        }
+
         public Customer Update(Customer entity)
         {
             return _icustomerRepository.Update(entity);

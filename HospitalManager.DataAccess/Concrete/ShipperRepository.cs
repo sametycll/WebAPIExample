@@ -9,13 +9,13 @@ using System.Threading.Tasks;
 
 namespace HospitalManager.DataAccess.Concrete
 {
-    public class EmployeeRepositorycs : IEmployeeRepository
+    public class ShipperRepository : IShipperRepository
     {
-        public Employee Create(Employee entity)
+        public Shipper Create(Shipper entity)
         {
             using (var dbContext = new NorthwindContext())
             {
-                dbContext.Employees.Add(entity);
+                dbContext.Shippers.Add(entity);
                 dbContext.SaveChanges();
                 return entity;
             }
@@ -26,32 +26,32 @@ namespace HospitalManager.DataAccess.Concrete
             using (var dbContext = new NorthwindContext())
             {
                 var deletedEmp = GetById(id);
-                dbContext.Employees.Remove(deletedEmp);
+                dbContext.Shippers.Remove(deletedEmp);
                 dbContext.SaveChanges();
             }
         }
 
-        public List<Employee> GetAll()
+        public List<Shipper> GetAll()
         {
             using (var dbContext = new NorthwindContext())
             {
-                return dbContext.Employees.ToList();
+                return dbContext.Shippers.ToList();
             }
         }
 
-        public Employee GetById(int id)
+        public Shipper GetById(int id)
         {
             using (var dbContext = new NorthwindContext())
             {
-                return dbContext.Employees.Find(id);
+                return dbContext.Shippers.Find(id);
             }
         }
 
-        public Employee Update(Employee entity)
+        public Shipper Update(Shipper entity)
         {
             using (var dbContext = new NorthwindContext())
             {
-                dbContext.Employees.Update(entity);
+                dbContext.Shippers.Update(entity);
                 dbContext.SaveChanges();
                 return entity;
             }

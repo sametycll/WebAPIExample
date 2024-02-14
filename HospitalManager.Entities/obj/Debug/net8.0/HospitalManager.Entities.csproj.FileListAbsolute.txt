@@ -12,3 +12,4 @@ D:\C#.NET.2022_17\HospitalManager\HospitalManager.Entities\obj\Debug\net8.0\refi
 D:\C#.NET.2022_17\HospitalManager\HospitalManager.Entities\obj\Debug\net8.0\HospitalManager.Entities.pdb
 D:\C#.NET.2022_17\HospitalManager\HospitalManager.Entities\obj\Debug\net8.0\HospitalManager.Entities.genruntimeconfig.cache
 D:\C#.NET.2022_17\HospitalManager\HospitalManager.Entities\obj\Debug\net8.0\ref\HospitalManager.Entities.dll
+D:\C#.NET.2022_17\HospitalManager\HospitalManager.Entities\obj\Debug\net8.0\HospitalManager.Entities.sourcelink.json

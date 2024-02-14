@@ -12,3 +12,7 @@ D:\C#.NET.2022_17\HospitalManager\HospitalManager.DataAccess\obj\Debug\net8.0\re
 D:\C#.NET.2022_17\HospitalManager\HospitalManager.DataAccess\obj\Debug\net8.0\HospitalManager.DataAccess.pdb
 D:\C#.NET.2022_17\HospitalManager\HospitalManager.DataAccess\obj\Debug\net8.0\HospitalManager.DataAccess.genruntimeconfig.cache
 D:\C#.NET.2022_17\HospitalManager\HospitalManager.DataAccess\obj\Debug\net8.0\ref\HospitalManager.DataAccess.dll
+D:\C#.NET.2022_17\HospitalManager\HospitalManager.DataAccess\bin\Debug\net8.0\HospitalManager.Entities.dll
+D:\C#.NET.2022_17\HospitalManager\HospitalManager.DataAccess\bin\Debug\net8.0\HospitalManager.Entities.pdb
+D:\C#.NET.2022_17\HospitalManager\HospitalManager.DataAccess\obj\Debug\net8.0\HospitalManager.DataAccess.sourcelink.json
+D:\C#.NET.2022_17\HospitalManager\HospitalManager.DataAccess\obj\Debug\net8.0\HospitalManager.DataAccess.csproj.CopyComplete

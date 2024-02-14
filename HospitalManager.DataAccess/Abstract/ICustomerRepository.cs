@@ -9,5 +9,6 @@ namespace HospitalManager.DataAccess.Abstract
 {
     public interface ICustomerRepository:IGenericRepository<Customer>
     {
+        Customer GetByName(string name);
     }
 }
